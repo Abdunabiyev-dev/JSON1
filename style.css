@@ -1,0 +1,34 @@
+.nn {
+    width: 300px;
+    padding: 14px 20px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    outline: none;
+    transition: 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.mm {
+    width: 300px;
+    padding: 14px 20px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    outline: none;
+    transition: 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.vv {
+    padding: 14px 32px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(135deg, #0077ff, #00c6ff);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+}
